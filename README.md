@@ -1,1 +1,1 @@
-Add quantization support to TensorFlow.js converter (#7008)
+Add HeatMap guide in real-world-projects + Code in Solutions Directory (#6796)
